@@ -24,30 +24,22 @@ Education
 * 2019-2022, MS in Computer Science, Xidian University.
 * 2015-2019, BS in Electronic and Information Engineering, Xidian University.
 
+Publications
+======
+* Xiangru Jian, Xinjian Zhao, Wei Pang, **Chaolong Ying**, Yimu Wang, Yaoyao Xu, and Tianshu Yu, [Do spectral cues matter in contrast-based graph self-supervised learning?](https://arxiv.org/abs/2405.19600) (Accepted by TMLR)
+* Xinjian Zhao, **Chaolong Ying**, and Tianshu Yu, [Graph Learning with Distributional Edge Layouts.](https://arxiv.org/abs/2402.16402) (Accepted by KDD 2025)
+* **Chaolong Ying**, Xinjian Zhao, and Tianshu Yu, [Boosting graph pooling with persistent homology.](https://arxiv.org/abs/2402.16346) (Accepted by NeurlPS 2024)
+* **Chaolong Ying**, Jing Liu, Kai Wu, and Chao Wang, [A multiobjective evolutionary approach for solving large-scale network reconstruction problems via logistic principal component analysis.](https://ieeexplore.ieee.org/abstract/document/9537739?casa_token=QHF6d6hWLQIAAAAA:r0deiCw4DcaICzZ8hDshkjDDR6zhGKLo43EYRkXF_l319-2JkXQNt18TLbLLREUnpIndkmiiiBW8) (Accepted by IEEE Transactions on Cybernetics)
+* Chao Wang, Jing Liu, Kai Wu, and **Chaolong Ying**, [Learning large-scale fuzzy cognitive maps using an evolutionary many-task algorithm](https://www.sciencedirect.com/science/article/pii/S1568494621003641?casa_token=XbpWt-AT3pkAAAAA:1u-WkO_Aw8gcWweH_BaUQzznTZ4fao34_tADV9a-1ozz4Xbdu2RU9vuG8kXLyF1SIZKF3w14lDU) (Accepted by Applied Soft Computing)
 
 
+Services
+======
+Conference Reviewer: NeurlPS, ICML, ICLR, AISTATS
 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Honors and Awards
+======
+* Duan Yong Ping Travel Award, 2024
+* Outstanding Graduates of Xidian University, 2022
+* National Scholarship, 2021
