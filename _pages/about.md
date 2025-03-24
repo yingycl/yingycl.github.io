@@ -28,14 +28,14 @@ Publications
 ======
 * Xiangru Jian, Xinjian Zhao, Wei Pang, **Chaolong Ying**, Yimu Wang, Yaoyao Xu, and Tianshu Yu, [Do spectral cues matter in contrast-based graph self-supervised learning?](https://arxiv.org/abs/2405.19600) (Accepted by TMLR)
 * Xinjian Zhao, **Chaolong Ying**, and Tianshu Yu, [Graph Learning with Distributional Edge Layouts.](https://arxiv.org/abs/2402.16402) (Accepted by KDD 2025)
-* **Chaolong Ying**, Xinjian Zhao, and Tianshu Yu, [Boosting graph pooling with persistent homology.](https://arxiv.org/abs/2402.16346) (Accepted by NeurlPS 2024)
+* **Chaolong Ying**, Xinjian Zhao, and Tianshu Yu, [Boosting graph pooling with persistent homology.](https://arxiv.org/abs/2402.16346) (Accepted by NeurIPS 2024)
 * **Chaolong Ying**, Jing Liu, Kai Wu, and Chao Wang, [A multiobjective evolutionary approach for solving large-scale network reconstruction problems via logistic principal component analysis.](https://ieeexplore.ieee.org/abstract/document/9537739?casa_token=QHF6d6hWLQIAAAAA:r0deiCw4DcaICzZ8hDshkjDDR6zhGKLo43EYRkXF_l319-2JkXQNt18TLbLLREUnpIndkmiiiBW8) (Accepted by IEEE Transactions on Cybernetics)
 * Chao Wang, Jing Liu, Kai Wu, and **Chaolong Ying**, [Learning large-scale fuzzy cognitive maps using an evolutionary many-task algorithm](https://www.sciencedirect.com/science/article/pii/S1568494621003641?casa_token=XbpWt-AT3pkAAAAA:1u-WkO_Aw8gcWweH_BaUQzznTZ4fao34_tADV9a-1ozz4Xbdu2RU9vuG8kXLyF1SIZKF3w14lDU) (Accepted by Applied Soft Computing)
 
 
 Services
 ======
-Conference Reviewer: NeurlPS, ICML, ICLR, AISTATS
+Conference Reviewer: NeurIPS, ICML, ICLR, AISTATS
 
 
 Honors and Awards
