@@ -78,5 +78,5 @@ Teaching Experiences
 * CSC1001: Introduction to Computer Science: Programming Methodology. Teaching Assistant, 2022 fall
 * CSC1002: Computational Laboratory. Teaching Assistant, 2023 spring, 2024 spring
 * MFE5250: Programming for Financial Engineering. Teaching Assistant, 2023 fall, 2024 fall
-* DDA 5001: Machine Learning. Teaching Assistant, 2025 spring & fall
+* DDA5001: Machine Learning. Teaching Assistant, 2025 spring & fall
 
